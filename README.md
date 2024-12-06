@@ -15,5 +15,3 @@ This notebook contains a series of Python programs that showcase mathematical, a
 
 4. **Bayesian Classifier (Gaussian Naive Bayes)**:  
    A probabilistic classification model based on the Gaussian Naive Bayes algorithm. This classifier is used for categorizing data using a statistical approach.
-
-This notebook integrates simulations, fractals, high-precision mathematical computations, and machine learning, offering an interdisciplinary and visually engaging approach to learning Python and its applications.
